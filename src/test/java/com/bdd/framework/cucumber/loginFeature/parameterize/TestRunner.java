@@ -1,4 +1,4 @@
-package com.bdd.framework.cucumber.loginFeature;
+package com.bdd.framework.cucumber.loginFeature.parameterize;
 
 import org.junit.runner.RunWith;
 
