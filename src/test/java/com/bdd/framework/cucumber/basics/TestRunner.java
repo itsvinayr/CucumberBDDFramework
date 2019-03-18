@@ -1,4 +1,4 @@
-package com.bdd.framework.cucumber;
+package com.bdd.framework.cucumber.basics;
 
 import org.junit.runner.RunWith;
 
